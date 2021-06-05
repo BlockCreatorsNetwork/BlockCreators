@@ -1,0 +1,12 @@
+syntax = "proto3";
+package BlockCreatorsNetwork.blockcreators.blockcreators;
+
+// this line is used by starport scaffolding # genesis/proto/import
+
+option go_package = "github.com/BlockCreatorsNetwork/BlockCreators/x/blockcreators/types";
+
+// GenesisState defines the blockcreators module's genesis state.
+message GenesisState {
+    // this line is used by starport scaffolding # genesis/proto/state
+    // this line is used by starport scaffolding # ibc/genesis/proto
+}
