@@ -76,3 +76,6 @@ As a valiator on the network the main benefit is having a community of decentral
 
 Validator Request Template TBA
 
+If you are a validator (or wish to become one) and would like to express interest in joining the network, please reach out:
+https://t.me/blockcreators
+
