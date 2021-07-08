@@ -27,6 +27,8 @@ Blockchain was created with the intention of removing the requirement of trust. 
 
 # The Plan
 
+This part is still up for discussion on if a network is needed for the governance, or just a multi-sig for voting.
+
 The BlockCreators network will be built using the **Cosmos SDK framework**. 
 A generalized framework that simplifies the process of building secure blockchain applications on top of Tendermint BFT. 
 It is based on two major principles: Modularity & capabilities-based security.
